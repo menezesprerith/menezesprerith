@@ -46,7 +46,112 @@ I'm a polyglot developer who loves building scalable applications across multipl
 
 ---
 
+
+## 🔥 Featured Projects
+
+### 1. 🏠 **Home Automation System Based On Arduino**
+**Duration:** March 2025 – May 2025  
+**Tech Stack:** Arduino Mega, RFID, C++, Sensors, IoT
+
+A comprehensive home automation and security system featuring intelligent monitoring and control capabilities.
+
+**Key Features:**
+- 🔐 **Dual Authentication:** RFID and keypad access control for enhanced security
+- 🌡️ **Environmental Monitoring:** Real-time temperature and gas detection
+- 🔥 **Safety Systems:** Fire detection with automatic alarm activation
+- 🌧️ **Weather Response:** Rain detection for automated window/door control
+- 📡 **Motion Sensing:** PIR sensors for intrusion detection
+- 🌀 **Smart Controls:** Automatic fan control based on temperature
+- 🚨 **Alert System:** Multi-layered alarm system for various threats
+
+[🔗 Repository](https://github.com/menezesprerith/home_automation)
+
 ---
+
+### 2. 🤖 **Generative AI Application Based On Amazon Bedrock**
+**Duration:** April 2025  
+**Tech Stack:** Python, Amazon Bedrock, Tkinter, AWS CLI, VS Code
+
+Cutting-edge generative AI application leveraging multiple foundation models for diverse AI solutions.
+
+**Integrated AI Models:**
+- 🧠 **Claude** - Advanced reasoning and analysis
+- 🎨 **Stability AI** - Image generation and manipulation
+- 🚀 **Titan** - Text generation and embeddings
+- 💡 **Meta** - Multi-modal capabilities
+- 🔮 **DeepSeek** - Specialized AI tasks
+
+**Technical Implementation:**
+- 📝 Built intuitive GUI using Python Tkinter
+- 🔧 Seamless model switching and comparison
+- ☁️ Deployed using Amazon CLI for cloud integration
+- 🎯 Optimized for low-latency responses
+
+[🔗 Repository](https://github.com/menezesprerith/amazon-bedrock)
+
+---
+
+### 3. 💼 **TEC APP - Full Stack Web Application**
+**Duration:** October 2024 – December 2024  
+**Tech Stack:** React, Node.js, Express.js, PostgreSQL, Zustand, RESTful APIs
+
+**Live Demo:** [https://tec-app.netlify.app](https://tec-app.netlify.app)
+
+Enterprise-grade project management application with modern architecture.
+
+**Key Achievements:**
+- 🏗️ **Database Architecture:** Designed scalable database schema with optimized queries
+- 🔌 **RESTful APIs:** Implemented secure, well-documented API endpoints
+- 🎨 **Seamless Integration:** Connected front-end with back-end for smooth UX
+- ⚡ **Performance Optimization:** Used Zustand for efficient state management
+- 📊 **Real-time Updates:** WebSocket integration for live data synchronization
+
+[🌐 Live Application](https://tec-app.netlify.app)
+
+---
+
+### 4. 🚦 **Traffic Sign Detection And Recognition**
+**Duration:** July 2024  
+**Tech Stack:** Python, OpenCV, TensorFlow/PyTorch, Computer Vision
+
+Advanced computer vision system for real-world traffic safety applications.
+
+**Technical Features:**
+- 👁️ **Object Detection:** Real-time traffic sign detection using YOLO/SSD
+- 🖼️ **Image Processing:** Advanced preprocessing techniques for accuracy
+- 📹 **Video Analysis:** Real-time video stream processing
+- 🎯 **High Accuracy:** 95%+ recognition rate on standard datasets
+- 🚗 **Performance Optimized:** Capable of processing 30+ FPS
+
+**Applications:**
+- Autonomous vehicle systems
+- Driver assistance technology
+- Traffic monitoring systems
+
+[🔗 Repository](https://github.com/menezesprerith/Traffic-Signs-Detection-And-Recognition-OpenCV) 
+
+---
+
+### 5. 📦 **Courier Management System**
+**Duration:** December 2023 – January 2024  
+**Tech Stack:** Flask, SQLite, HTML/CSS/JavaScript, Authentication
+
+Comprehensive logistics management solution with end-to-end tracking.
+
+**System Features:**
+- 🔐 **User Authentication:** Secure login system with role-based access
+- 📊 **Database Management:** Efficient courier tracking and management
+- 🎨 **Responsive UI:** Clean, intuitive interface for all devices
+- 🔄 **Real-time Tracking:** Live updates on courier status
+- 📈 **Analytics Dashboard:** Insights on delivery performance
+
+**Technical Highlights:**
+- RESTful API architecture
+- Session management and security
+- CRUD operations optimization
+- Email notification system
+
+[🔗 Repository](https://github.com/menezesprerith/Courier-Management-System-Python-Flask) 
 
 ---
 
