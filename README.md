@@ -46,26 +46,7 @@ I'm a polyglot developer who loves building scalable applications across multipl
 
 ---
 
-## 🏆 Achievements & Certifications
-
-- 🥇 **AWS Certified Solutions Architect - Professional**
-- 🥈 **Google Cloud Professional Cloud Developer**
-- 🥉 **Microsoft Azure Developer Associate**
-- 🏅 **MongoDB Certified Developer**
-- 🎖️ **React Nanodegree - Udacity**
-- 🏆 **Winner - HackTheWorld 2024**
-
 ---
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Building Scalable Microservices with Django and Node.js](https://blog.com/microservices)
-- [The Ultimate Guide to Cloud-Native Development](https://blog.com/cloud-native)
-- [From Monolith to Microservices: A Ruby on Rails Journey](https://blog.com/rails-microservices)
-- [Optimizing React Apps for Million Users](https://blog.com/react-optimization)
-- [Machine Learning in Production: Python Best Practices](https://blog.com/ml-production)
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
