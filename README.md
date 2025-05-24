@@ -33,120 +33,6 @@ I'm a polyglot developer who loves building scalable applications across multipl
 
 ---
 
-## 🔥 Featured Projects
-
-### 1. 🧠 **AI-Powered Code Review Assistant**
-**Tech Stack:** Python, Flask, MongoDB, AWS Lambda, React, TypeScript
-
-A revolutionary tool that uses machine learning to review code and suggest improvements across multiple programming languages.
-
-- 🤖 Analyzes code patterns using custom-trained models
-- 📊 Provides detailed metrics and suggestions
-- 🔄 Integrates with GitHub Actions for automated reviews
-- ⚡ Serverless architecture handling 10K+ reviews daily
-
-[🔗 Repository](https://github.com/menezesprerith/ai-code-reviewer) | [🌐 Live Demo](https://demo.com)
-
----
-
-### 2. 🌍 **GeoSocial - Location-Based Social Network**
-**Tech Stack:** React Native, Django REST, PostgreSQL, Redis, AWS EC2, Dart
-
-A social platform that connects people based on their real-time location and interests.
-
-- 📍 Real-time location tracking with privacy controls
-- 💬 WebSocket-based instant messaging
-- 🗺️ Interactive maps with event markers
-- 👥 Smart matching algorithm for local connections
-
-[🔗 Repository](https://github.com/menezesprerith/geosocial) | [📱 App Store](https://appstore.com)
-
----
-
-### 3. 🎮 **CloudGame Engine**
-**Tech Stack:** Java, Kotlin, Node.js, Express.js, MongoDB, Firebase, AWS GameLift
-
-A cloud-based game engine that allows developers to create multiplayer games without managing servers.
-
-- 🎯 Built-in physics engine in Java
-- 🌐 WebRTC for P2P connections
-- 📈 Real-time analytics dashboard
-- 🔧 SDK available in 5 languages
-
-[🔗 Repository](https://github.com/menezesprerith/cloudgame-engine) | [📚 Documentation](https://docs.com)
-
----
-
-### 4. 📊 **DataViz Pro - Interactive Data Visualization Platform**
-**Tech Stack:** React, TypeScript, D3.js, Python, Django, Azure Functions, MongoDB
-
-Enterprise-grade data visualization platform with AI-powered insights.
-
-- 📈 50+ customizable chart types
-- 🤖 ML-based anomaly detection
-- 🔌 Connects to 20+ data sources
-- 📱 Responsive design with PWA support
-
-[🔗 Repository](https://github.com/menezesprerith/dataviz-pro) | [🎥 Demo Video](https://youtube.com)
-
----
-
-### 5. 🛒 **OmniCommerce - Headless E-commerce Platform**
-**Tech Stack:** Node.js, Express.js, React, Ruby on Rails, Firebase, AWS S3, MongoDB
-
-A headless e-commerce solution that scales from startup to enterprise.
-
-- 🚀 GraphQL API with 99.9% uptime
-- 💳 Multi-currency & payment gateway support
-- 📦 Inventory management with ML predictions
-- 🌍 CDN-powered global delivery
-
-[🔗 Repository](https://github.com/menezesprerith/omnicommerce) | [🌐 Case Studies](https://cases.com)
-
----
-
-### 6. 🏥 **HealthTrack - Personal Health Management System**
-**Tech Stack:** Django, React, TypeScript, MongoDB, Flask (Microservices), AWS, Dart (Mobile)
-
-Comprehensive health tracking platform with wearable integration.
-
-- ⌚ Syncs with 15+ wearable devices
-- 📊 Health trend analysis and predictions
-- 👨‍⚕️ Telemedicine integration
-- 🔐 HIPAA-compliant architecture
-
-[🔗 Repository](https://github.com/menezesprerith/healthtrack) | [📱 Mobile App](https://play.google.com)
-
----
-
-### 7. 🤖 **DevOps Automation Suite**
-**Tech Stack:** Python, Java, Node.js, AWS CDK, Azure DevOps, Kotlin
-
-Complete automation toolkit for modern DevOps workflows.
-
-- 🔄 Infrastructure as Code templates
-- 📦 Container orchestration helpers
-- 🚨 Intelligent monitoring and alerting
-- 🔧 Custom CLI tools for common tasks
-
-[🔗 Repository](https://github.com/menezesprerith/devops-suite) | [📖 Wiki](https://wiki.com)
-
----
-
-### 8. 🎨 **CreativeAI - AI Art Generation Platform**
-**Tech Stack:** Python, Flask, React, TypeScript, MongoDB, Firebase Storage, AWS GPU Instances
-
-Platform for creating AI-generated art with custom models.
-
-- 🎨 Multiple AI model support (Stable Diffusion, DALL-E, etc.)
-- 🖼️ Gallery with social features
-- 💰 NFT minting integration
-- 🔄 Real-time collaborative editing
-
-[🔗 Repository](https://github.com/menezesprerith/creativeai) | [🎨 Gallery](https://gallery.com)
-
----
-
 ## 📈 GitHub Stats
 
 <div align="center">
@@ -203,10 +89,10 @@ Platform for creating AI-generated art with custom models.
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/menezesprerith)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/menezesprerith)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/menezes-prerith)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://prerithmenezes.netlify.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:menezesprerith@gmail.com)
 
 </div>
 
@@ -225,10 +111,9 @@ Platform for creating AI-generated art with custom models.
 - 💬 Ask me about scalable architectures and performance optimization
 
 ### ⚡ Fun Facts
-- 🎮 Built my first game at age 12
 - ☕ Powered by 3 cups of coffee daily
 - 🌍 Code from 3 different continents
-- 🎸 Play guitar when not coding
+- 🎸 Play keyboard when not coding
 
 ---
 
