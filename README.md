@@ -164,10 +164,10 @@ Comprehensive logistics management solution with end-to-end tracking.
 - **MongoDB** - Query optimization for aggregation pipeline (PR #3456)
 
 ### My Open Source Projects
-- 📦 **express-turbo** - Supercharged Express.js middleware collection (⭐ 2.3K)
-- 🔧 **django-toolbox** - Essential Django utilities and mixins (⭐ 1.8K)
-- 🚀 **react-perf-kit** - React performance monitoring toolkit (⭐ 3.1K)
-- 🐍 **pyfast** - High-performance Python utilities (⭐ 1.5K)
+- 📦 **express-turbo** - Supercharged Express.js middleware collection 
+- 🔧 **django-toolbox** - Essential Django utilities and mixins 
+- 🚀 **react-perf-kit** - React performance monitoring toolkit 
+- 🐍 **pyfast** - High-performance Python utilities 
 
 ---
 
